@@ -11,6 +11,6 @@
 
 ## Topic Summary
 
-## YouTube Video
+## YouTube Vide
 
 [YouTube Video Link](YOUTUBE-LINK-HERE)
