@@ -1,16 +1,12 @@
-# CEP 146 Presentation
+### Israel — Script Writer
 
-## Team Members 
-
-| Name | Student Number | Role |
-| --- | --- | --- |
-| Vural Gul | 116936261 | Project coordination and GitHub setup |
-| Diyako Najdmazhar | 124309261 | Research |
-| Israel Mukandila | 105461263 | Script and slides |
-| Parinaz Oghbaei | 139517254 | Role | 
-
-## Topic Summary
-
-## YouTube Video
-
-[YouTube Video Link](YOUTUBE-LINK-HERE)
+- [x] Read the presentation requirements
+- [ ] Review the selected programming languages
+- [ ] Create the video script outline
+- [ ] Write the introduction of the script
+- [ ] Write the section about the first language
+- [ ] Write the section about the second language
+- [ ] Write the comparison section
+- [ ] Write the conclusion of the script
+- [ ] Check that the script is clear and within the time limit
+- [ ] Submit the script through a pull request
