@@ -1,16 +1,12 @@
-# CEP 146 Presentation
+### Oghbaei — Video and Slides
 
-## Team Members 
-
-| Name | Student Number | Role |
-| --- | --- | --- |
-| Vural Gul | 116936261 | Project coordination and GitHub setup |
-| Diyako Najdmazhar | 124309261 | Research |
-| Israel Mukandila | 105461263 | Script and slides |
-| Parinaz Oghbaei | 139517254 | Role | 
-
-## Topic Summary
-
-## YouTube Video
-
-[YouTube Video Link](YOUTUBE-LINK-HERE)
+- [x] Read the presentation requirements
+- [ ] Review the final video script
+- [ ] Plan the slide design and layout
+- [ ] Create the title slide
+- [ ] Create slides for the first programming language
+- [ ] Create slides for the second programming language
+- [ ] Create a comparison slide
+- [ ] Add source information to the slides
+- [ ] Help record and edit the video
+- [ ] Submit the slides and video work through a pull request
