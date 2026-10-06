@@ -11,6 +11,19 @@
 
 ## Topic Summary
 
+- We are going to give a presentation on programming languages trends.
+- Our presentation is going to cover comparison between two programming languages and the reasons why they are popular, what they are used for and why one would prefer one language over the other.
+
+## Project Status
+
+- [x] Choose the initial topic issue
+- [ ] Choose two programming languages
+- [ ] Complete research
+- [ ] Write the video script
+- [ ] Create slides
+- [ ] Record and edit the video
+- [ ] Add the public YouTube link
+
 ## YouTube Video
 
 [YouTube Video Link](YOUTUBE-LINK-HERE)
