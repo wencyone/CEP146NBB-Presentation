@@ -1,16 +1,12 @@
-# CEP 146 Presentation
+### Vural Gul — Project Coordinator and GitHub Setup
 
-## Team Members 
-
-| Name | Student Number | Role |
-| --- | --- | --- |
-| Vural Gul | 116936261 | Project coordination and GitHub setup |
-| Diyako Najdmazhar | 124309261 | Research |
-| Israel Mukandila | 105461263 | Script and slides |
-| Parinaz Oghbaei | 139517254 | Role | 
-
-## Topic Summary
-
-## YouTube Video
-
-[YouTube Video Link](YOUTUBE-LINK-HERE)
+- [x] Create the GitHub repository
+- [x] Add all team members as collaborators
+- [x] Create project labels
+- [x] Create the first project issues
+- [x] Organize the README file
+- [x] Set up the project status section
+- [ ] Check that each member uses their own branch
+- [ ] Track each member’s daily progress
+- [ ] Review pull requests before merging
+- [ ] Complete the final GitHub and README check
