@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | Vural Gul | 116936261 | Project coordination and GitHub setup |
 | Diyako Najdmazhar | 124309261 | Research |
-| Israel Mukandila | 105461263 | Script and slides |
-| Parinaz Oghbaei | 139517254 | Helper | 
+| Israel Mukandila | 105461263 | Script Writer |
+| Parinaz Oghbaei | 139517254 | Video and Slides | 
 
 ## Topic Summary
 
@@ -17,7 +17,7 @@
 ## Project Status
 
 - [x] Choose the initial topic issue
-- [ ] Choose two programming languages
+- [x] Choose two programming languages
 - [ ] Complete research
 - [ ] Write the video script
 - [ ] Create slides
