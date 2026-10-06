@@ -1,16 +1,12 @@
-# CEP 146 Presentation
+### Diyako — Researcher
 
-## Team Members 
-
-| Name | Student Number | Role |
-| --- | --- | --- |
-| Vural Gul | 116936261 | Project coordination and GitHub setup |
-| Diyako Najdmazhar | 124309261 | Research |
-| Israel Mukandila | 105461263 | Script and slides |
-| Parinaz Oghbaei | 139517254 | Role | 
-
-## Topic Summary
-
-## YouTube Vide
-
-[YouTube Video Link](YOUTUBE-LINK-HERE)
+- [x] Read the presentation requirements
+- [x] Suggest programming language ideas
+- [x] Help choose the final two programming languages
+- [ ] Find at least three reliable sources
+- [ ] Research current popularity trends
+- [ ] Research the main uses of the first language
+- [ ] Research the main uses of the second language
+- [ ] Compare the strengths of both languages
+- [ ] Add research notes and source links to the repository
+- [ ] Submit the research work through a pull request
