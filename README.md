@@ -6,7 +6,7 @@
 - [x] Create the first project issues
 - [x] Organize the README file
 - [x] Set up the project status section
-- [ ] Check that each member uses their own branch
+- [x] Check that each member uses their own branch
 - [ ] Track each member’s daily progress
 - [ ] Review pull requests before merging
 - [ ] Complete the final GitHub and README check
