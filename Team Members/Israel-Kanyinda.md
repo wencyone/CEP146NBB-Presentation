@@ -14,7 +14,7 @@ The team selected Python and JavaScript. Israel reviewed the script requirements
 # Day 2 Progress Report 
 **Date:** October 6, 2026  
 **Team Member:** Diyako  
-**Role:** Researcher 
+**Role:** Script Writer 
 
 ## Work Completed
 Israel didn't do anything for now.
