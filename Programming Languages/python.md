@@ -11,3 +11,13 @@ Python has established itself as a foundational technology across several critic
 Python’s role in artificial intelligence has become a defining trend in 2026. According to JetBrains’ State of Developer Ecosystem 2025 report, 85% of developers now regularly use AI tools for coding and development, and 62% rely on at least one AI coding assistant or agent (PyCon Blog, 2026, “Python and the Future of AI” section, para. 2). A major shift underway is the move toward running AI models locally on laptops, browsers, and devices rather than in centralized cloud infrastructure, with Python playing a central role in edge inference (PyCon Blog, 2026, “LLMs Are Moving to the Edge” section, para. 1). Agentic AI—systems that take multi-step actions autonomously—is described as one of the defining developments of 2025 that continues to dominate in 2026, with Python being the primary language for building these systems (PyCon Blog, 2026, “AI Agents and Async Python” section, para. 1). Additionally, Python is evolving from merely a language for writing algorithms into what industry observers describe as an orchestration interface for managing AI systems and specialized engines (Upwork, 2026, “The numbers don’t lie” section, para. 1).
 
 
+#### **References:**
+Sources Used for Python:
+
+• CodeGym. (2026). Is Python Still Worth Learning in 2026? An Honest, Data-Driven Answer for the LLM Age. https://codegym.cc/groups/posts/python-still-worth-learning-2026-ai
+
+• PyCon Blog. (2026, April 6). Python and the Future of AI: Agents, Inference, and Edge AI. https://pycon.blogspot.com/2026/04/python-and-future-of-ai-agents.html
+
+• TechRepublic. (2026, September 7). TIOBE Index for September 2026: Top 10 Most Popular Programming Languages. https://www.techrepublic.com/article/news-tiobe-index-language-rankings/
+
+• Upwork. (2026, March 10). Is Python in Demand? Insights From AI-Related Fields. https://www.upwork.com/resources/is-python-in-demand.
