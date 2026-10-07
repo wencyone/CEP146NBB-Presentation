@@ -9,6 +9,8 @@
 
 **Slide Size:** PLS WRITE HERE 
 
+**Slide Link** SLIDE LINK HERE IF YOU'RE GONNA DO ONLINE (GOOGLE SLIDES - CANVA)  
+
 ---
 
 ## Slide 1 — Title 
