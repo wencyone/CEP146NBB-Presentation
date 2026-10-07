@@ -26,5 +26,4 @@ Add notes about the similarities, differences, and main uses of Python and JavaS
 
 • Upwork. (2026, March 10). Is Python in Demand? Insights From AI-Related Fields. https://www.upwork.com/resources/is-python-in-demand.
 
-Add reliable source links here. 
 ---
