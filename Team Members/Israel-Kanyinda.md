@@ -10,3 +10,15 @@ Israel participated in the team discussion about the presentation topic. The tea
 The team selected Python and JavaScript. Israel reviewed the script requirements and considered how the video can be organized with a short introduction, information about both languages, and a conclusion.
 
 ---
+
+# Day 2 Progress Report 
+**Date:** October 6, 2026  
+**Team Member:** Diyako  
+**Role:** Researcher 
+
+## Work Completed
+Israel didn't do anything for now.
+
+Israel will be ready to create the script structure after the research is added to GitHub.
+
+---
