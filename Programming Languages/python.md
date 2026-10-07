@@ -1,34 +1,5 @@
 # Python Research
 
-
-## Vural's Research 
-
-> I might be wrong, but Python is a slow interpreted programming language that lags behind many others. Why is it so widely used?
-> 
-- Because it’s very simple and easy to read it.
-
-> Python has countless libraries for almost any need. But why can't this be done, for example, with C++?
-> 
-- It can, most Python libraries that care about performance is written in C or C++. Python is the easy interface. For example numpy Q library.
-
-> Why aren’t there libraries in C++ that allow you to implement complex algorithms with a single function, like in Python?
->
-- There probably are, but why not just use Python for that? Math or physicists don't care about what a pointer or a move constructor is, they just want results in the easiest way possible
-
-> And why don’t other programming languages have their own equivalent of pip for convenient library management? 
->
-- Rust has cargo
-, Node has npm
-, etc. C or C++ don't have (an official) one because they are dictated by a standard committee, which makes some things harder.
-
-> I may be mistaken, but I’m curious: why is Python used so much if it’s a slow language? 
->
-- Either you don't care about performance or you use it as an interface for a library that is not written in Python.
-
----
-
-## Diyako's Research 
-
 **Popularity**
 Python consistently ranks as one of the most widely used programming languages in the world. In the Stack Overflow Developer Survey 2026, 58.0% of developers reported doing extensive development work in Python over the past year, placing it fourth overall behind JavaScript, SQL, and HTML/CSS (Stack Overflow, 2026, “Programming, scripting, and markup languages” section, para. 1). The same survey data shows Python at 8,184 respondents, compared to JavaScript at 8,742 (Stack Overflow, 2026). In the 2025 Stack Overflow survey, Python recorded its sharpest single-year gain ever, jumping 7 percentage points year-over-year to reach 57.9% of developers (CodeGym, 2026, “Key Takeaways” section, para. 2). In the TIOBE Index for September 2026, Python holds the number one position with a 17.76% share, far ahead of C (10.28%) and C++ (8.67%) (TechRepublic, 2026, “Top 10 programming languages in September 2026” section, para. 1). On GitHub, Python had approximately 2.59 million monthly contributors as of August 2025, reflecting a 48.8% year-over-year growth (CodeGym, 2026, “Key Takeaways” section, para. 3).
 
@@ -37,11 +8,5 @@ Python has established itself as a foundational technology across several critic
 
 **Current Trends**
 Python’s role in artificial intelligence has become a defining trend in 2026. According to JetBrains’ State of Developer Ecosystem 2025 report, 85% of developers now regularly use AI tools for coding and development, and 62% rely on at least one AI coding assistant or agent (PyCon Blog, 2026, “Python and the Future of AI” section, para. 2). A major shift underway is the move toward running AI models locally on laptops, browsers, and devices rather than in centralized cloud infrastructure, with Python playing a central role in edge inference (PyCon Blog, 2026, “LLMs Are Moving to the Edge” section, para. 1). Agentic AI—systems that take multi-step actions autonomously—is described as one of the defining developments of 2025 that continues to dominate in 2026, with Python being the primary language for building these systems (PyCon Blog, 2026, “AI Agents and Async Python” section, para. 1). Additionally, Python is evolving from merely a language for writing algorithms into what industry observers describe as an orchestration interface for managing AI systems and specialized engines (Upwork, 2026, “The numbers don’t lie” section, para. 1).
----
-## YOUR NAME 
-
----
-
-## YOUR NAME 
 
 
