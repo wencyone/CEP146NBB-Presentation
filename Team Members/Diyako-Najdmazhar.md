@@ -9,3 +9,15 @@ Diyako participated in the team discussion about the presentation topic. The tea
 The team selected Python and JavaScript as the final languages. Diyako reviewed the research direction and will focus on finding reliable information about the popularity, uses, and current trends of both languages.
 
 ---
+
+# Day 2 Progress Report 
+**Date:** October 6, 2026  
+**Team Member:** Diyako  
+**Role:** Researcher 
+
+## Work Completed
+Diyako researched Python for the presentation. The research includes Python’s popularity, current trends, main uses, strengths, and limitations.
+
+The research has not been committed to GitHub yet. The next step is to organize the notes, add reliable source links, and upload the work to the repository.
+
+---
