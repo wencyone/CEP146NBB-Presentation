@@ -12,7 +12,7 @@ The team selected Python and JavaScript. Parinaz suggested these languages becau
 ---
 
 # Day 2 Progress Report
-**Date:** October 5, 2026  
+**Date:** October 6, 2026  
 **Team Member:** Parinaz Oghbaei  
 **Role:** Video and Slides  
 
@@ -21,3 +21,11 @@ The team selected Python and JavaScript. Parinaz suggested these languages becau
 Parinaz will be ready to begin the visual planning after the research is uploaded to GitHub.
 
 ---
+# Day 3 Progress Report
+**Date:** October 7, 2026  
+**Team Member:** Parinaz Oghbaei  
+**Role:** Video and Slides  
+
+## Work Completed
+
+Parinaz reviewed the project progress and waited for the script draft.
