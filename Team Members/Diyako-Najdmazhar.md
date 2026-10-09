@@ -21,3 +21,14 @@ Diyako researched Python for the presentation. The research includes Python’s 
 The research has not been committed to GitHub yet. The next step is to organize the notes, add reliable source links, and upload the work to the repository.
 
 ---
+
+# Day 3 Progress Report 
+**Date:** October 7, 2026  
+**Team Member:** Diyako  
+**Role:** Researcher 
+
+## Work Completed 
+
+Diyako completed the research for Python and JavaScript. The research includes key facts, trends, uses, strengths, limitations, and source information for the presentation.
+
+---
