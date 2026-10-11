@@ -1,12 +1,12 @@
 ### Israel — Script Writer
 
 - [x] Read the presentation requirements
-- [ ] Review the selected programming languages
-- [ ] Create the video script outline
-- [ ] Write the introduction of the script
-- [ ] Write the section about the first language
-- [ ] Write the section about the second language
-- [ ] Write the comparison section
-- [ ] Write the conclusion of the script
-- [ ] Check that the script is clear and within the time limit
-- [ ] Submit the script through a pull request
+- [x] Review the selected programming languages
+- [x] Create the video script outline
+- [x] Write the introduction of the script
+- [x] Write the section about the first language
+- [x] Write the section about the second language
+- [x] Write the comparison section
+- [x] Write the conclusion of the script
+- [x] Check that the script is clear and within the time limit
+- [x] Submit the script through a pull request
