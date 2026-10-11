@@ -1,4 +1,6 @@
-# Introduction Slides
+## Introduction Slides
+
+**Script:**
 
 ## Slide 1 — *JavaScript*
 
@@ -26,11 +28,36 @@ If you want websites to respond instantly to user actions, JavaScript is the lan
 
 ---
 
-## Slide 3 — NAME
+## Slide 3 —  *Python*
 
 **Script:**  
 
+JavaScript is cool but it isn't the only language capable of building applications! Python, first released in 1991, before JavaScript, is known for its simple syntax, making it a popular choice for beginners and experienced developers too.
+
+The same Stack Overflow survey states that 58 percent of developers work with Python a lot.
+
+Unlike JavaScript, Python is widely used for artificial intelligence, machine learning, and data science. Tools like PyTorch and TensorFlow help with AI applications 
+
 **Speaker:**  
 
+---
+
+## Slide 4 —  *Python*
+
+**Script:** 
+
+And that’s where Python really shines. Python is widely used to analyze data, work with AI models, and build AI agents. Python has more tools for building and training AI models.
+
+In short, JavaScript is popular for interactive websites, while Python is widely used for AI and data science.
+
+**Speaker:** 
+
+---
+
+##Conclusion Slides
+
+**Script:**
+
+**Speaker:**
 
  FOR IZZY 
