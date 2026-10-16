@@ -34,3 +34,11 @@ Israel will be ready to create the script structure after the research is added 
 Izzy reviewed Diyako’s research and took notes about the most important information. Izzy started planning the script structure and selected key points for the presentation.
 
 ---
+
+# Day 4 Progress Report 
+**Date:** October 8-9-10, 2026  
+**Team Member:** Diyako  
+**Role:** Script Writer 
+
+## Work Completed 
+Izyy Completed his work in few days with no issue. 
