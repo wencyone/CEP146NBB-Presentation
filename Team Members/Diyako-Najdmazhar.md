@@ -32,3 +32,5 @@ The research has not been committed to GitHub yet. The next step is to organize 
 Diyako completed the research for Python and JavaScript. The research includes key facts, trends, uses, strengths, limitations, and source information for the presentation.
 
 ---
+
+**DONE HIS WORK!**
