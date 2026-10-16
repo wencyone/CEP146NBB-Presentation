@@ -18,9 +18,9 @@
 
 - [x] Choose the initial topic issue
 - [x] Choose two programming languages
-- [ ] Complete research
-- [ ] Write the video script
-- [ ] Create slides
+- [x] Complete research
+- [x] Write the video script
+- [x] Create slides
 - [ ] Record and edit the video
 - [ ] Add the public YouTube link
 
