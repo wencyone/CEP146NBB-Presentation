@@ -7,6 +7,5 @@
 - [x] Organize the README file
 - [x] Set up the project status section
 - [x] Check that each member uses their own branch
-- [ ] Track each member’s daily progress
-- [ ] Review pull requests before merging
+- [x] Track each member’s daily progress
 - [ ] Complete the final GitHub and README check
