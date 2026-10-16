@@ -35,7 +35,7 @@ Izzy reviewed Diyako’s research and took notes about the most important inform
 
 ---
 
-# Day 4 Progress Report 
+# Days Progress Report 
 **Date:** October 8-9-10, 2026  
 **Team Member:** Diyako  
 **Role:** Script Writer 
