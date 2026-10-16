@@ -5,11 +5,11 @@
 
 ## General Design
 
-**Theme Colors:**  PLS WRITE HERE 
+**Theme Colors:** Blue 
 
-**Slide Size:** PLS WRITE HERE 
+**Slide Size:** 8 slides  
 
-**Slide Link** SLIDE LINK HERE IF YOU'RE GONNA DO ONLINE (GOOGLE SLIDES - CANVA)  
+**Slide Link** (https://canva.link/bj4nwaiqsploghm)  
 
 ---
 
