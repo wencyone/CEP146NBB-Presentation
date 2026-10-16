@@ -1,7 +1,7 @@
 ### Oghbaei — Video and Slides
 
 - [x] Read the presentation requirements
-- [ ] Review the final video script
+- [x] Review the final video script
 - [ ] Plan the slide design and layout
 - [ ] Create the title slide
 - [ ] Create slides for the first programming language
