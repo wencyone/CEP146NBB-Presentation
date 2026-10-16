@@ -29,3 +29,13 @@ Parinaz will be ready to begin the visual planning after the research is uploade
 ## Work Completed
 
 Parinaz reviewed the project progress and waited for the script draft.
+
+
+# Days Progress Report
+**Date:** October 11-16, 2026  
+**Team Member:** Parinaz Oghbaei  
+**Role:** Video and Slides  
+
+## Work Completed 
+
+Parinaz is finished the slide part! 
