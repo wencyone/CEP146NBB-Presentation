@@ -13,8 +13,7 @@
 
 ---
 
-## Slide 1 — Title 
-**Title:**  
-**Text on Slide:**  
-**Design Notes:**  
-**Status:** (In Progress, Done) 
+## Slide 1:
+**Title:** Language trends
+**Text on Slide:**  Name of group members  
+**Status:** Done
