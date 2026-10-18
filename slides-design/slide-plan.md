@@ -74,3 +74,9 @@ Tools like PyTorch and TensorFlow help developers build AI applications.
 **About Python:** Python wins in AI, data science, and automation. Its simple syntax makes it easier to learn, while powerful libraries help developers build intelligent applications and analyze data.
 
 
+**About JS:** JavaScript wins in web development because it creates interactive websites and supports both front-end and back-end development. It is the best choice for building modern web applications.
+
+**Status:** Done
+
+---
+
