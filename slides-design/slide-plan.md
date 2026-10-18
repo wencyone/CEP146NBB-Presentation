@@ -67,3 +67,10 @@ Tools like PyTorch and TensorFlow help developers build AI applications.
 **Status:** Done 
 
 ---
+
+## Slide 6:
+**Title:** *Comparing two languages to find out which one wins?*
+
+**About Python:** Python wins in AI, data science, and automation. Its simple syntax makes it easier to learn, while powerful libraries help developers build intelligent applications and analyze data.
+
+
