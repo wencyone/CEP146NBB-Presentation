@@ -83,7 +83,9 @@ Tools like PyTorch and TensorFlow help developers build AI applications.
 ## Slide 7:
 **Title:** *Links to references* 
 
-**For python** https://codegym.cc/groups/posts/python-still-worth-learning-2026-ai
+**For python**
+
+https://codegym.cc/groups/posts/python-still-worth-learning-2026-ai
 
 https://pycon.blogspot.com/2026/04/python-and-future-of-ai-agents.html
 
@@ -92,7 +94,9 @@ https://www.techrepublic.com/article/news-tiobe-index-language-rankings/
 https://www.upwork.com/resources/is-python-in-demand.
 
 
-**For JavaScript** https://www.upwork.com/resources/is-javascript-in-demand
+**For JavaScript**
+
+https://www.upwork.com/resources/is-javascript-in-demand
 
 https://github.com/FarazKelhini/stack-pulse
 
