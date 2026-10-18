@@ -53,10 +53,17 @@ Tools like PyTorch and TensorFlow help developers build AI applications.
 ## Slide 4:
 **Title:** Question about *Why JavaScript?*
 
-**Text on Slide:** Responding *JavaScript began in 1995 to make websites interactive,JavaScript started as a language for making websites interactive. Today, it is used for front-end and back-end development, mobile apps, and modern web applications.*
+**Text on Slide:** Responding: *JavaScript began in 1995 to make websites interactive,JavaScript started as a language for making websites interactive. Today, it is used for front-end and back-end development, mobile apps, and modern web applications.*
 
 **Status:** Done
 
 ---
 
+## Slide 5:
+**Title:** Question about *Why Python?*
 
+**Text on Slide:** Responding: *First released in 1991, Python became popular for its simple and readable syntax. Today, it is widely used in artificial intelligence, data science, automation, and web development.*
+
+**Status:** Done 
+
+---
