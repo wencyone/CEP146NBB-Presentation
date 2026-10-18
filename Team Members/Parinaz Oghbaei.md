@@ -38,4 +38,14 @@ Parinaz reviewed the project progress and waited for the script draft.
 
 ## Work Completed 
 
-Parinaz is finished the slide part! 
+Parinaz finished the template of slides
+
+
+# Days Progress Report 
+**Date:** October 16-17, 2026  
+**Team Member:** Parinaz Oghbaei & Vural Gul
+**Role:** Video and Slides 
+
+##  Work Completed 
+
+Parinaz and Vural finished the slides together. 
