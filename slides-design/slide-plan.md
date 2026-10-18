@@ -46,6 +46,8 @@ Python is known for its simple and readable syntax.
  It is widely used in artificial intelligence, machine learning, and data science. 
 Tools like PyTorch and TensorFlow help developers build AI applications.
 
+**Status:** Done
+
 ---
 
 
