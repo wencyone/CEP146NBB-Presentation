@@ -110,3 +110,15 @@ https://dhtmlx.com
 **Status:** Done
 
 ---
+
+
+## Slide 8:
+**Title:** *Thank you*
+
+**Text on Slide:** Name of group members 
+
+**Status:** Done
+
+---
+
+
