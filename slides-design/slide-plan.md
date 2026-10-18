@@ -30,3 +30,22 @@
 **Status:** Done
 
 ---
+
+## Slide 3: 
+**Title:** Exploring popular Programming languages
+
+**Text on Slide:** Describing information about two most popular language trends such as JavaScript and Python.
+
+**Information about JavaScript:** Created in 1995, 
+JavaScript is one of the most widely used programming languages. 
+It makes websites interactive and also supports back-end, mobile, and desktop development. Tools like React and Node.j
+JS make it even more powerful.
+
+**Information about Python:** First released in 1991,
+Python is known for its simple and readable syntax.
+ It is widely used in artificial intelligence, machine learning, and data science. 
+Tools like PyTorch and TensorFlow help developers build AI applications.
+
+---
+
+
