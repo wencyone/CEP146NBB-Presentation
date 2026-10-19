@@ -41,7 +41,6 @@ Unlike JavaScript, Python is widely used for artificial intelligence, machine le
 **Script:** 
 
 And that’s where Python really shines. Python is widely used to analyze data, work with AI models, and build AI agents. Python has more tools for building and training AI models.
-In short, JavaScript is popular for interactive websites, while Python is widely used for AI and data science.
 
 **Speaker:** 
 
@@ -50,7 +49,7 @@ In short, JavaScript is popular for interactive websites, while Python is widely
 ##Conclusion Slides
 
 **Script:**
-There is no single winner. JavaScript is great for interactive websites, while Python is great for AI and data science.Both languages are useful, and the best choice depends on the project. Learning both languages can help developers solve more problems.
+In short, JavaScript is popular for interactive websites, while Python is widely used for AI and data science. There is no single winner. JavaScript is great for interactive websites, while Python is great for AI and data science.Both languages are useful, and the best choice depends on the project. Learning both languages can help developers solve more problems.
 
 Thank you
 
