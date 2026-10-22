@@ -26,4 +26,4 @@
 
 ## YouTube Video
 
-[YouTube Video Link](YOUTUBE-LINK-HERE)
+[YouTube Video Link](https://www.youtube.com/watch?v=GVgbgubUhII)
