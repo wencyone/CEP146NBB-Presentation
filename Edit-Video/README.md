@@ -37,7 +37,9 @@ and synchronizing the audio with the corresponding slide content.
 
 **Speaker'name:** *Israeil* 
 
-**Status:** Done
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
 
 ---
 
