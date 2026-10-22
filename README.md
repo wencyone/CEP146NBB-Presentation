@@ -21,8 +21,8 @@
 - [x] Complete research
 - [x] Write the video script
 - [x] Create slides
-- [ ] Record and edit the video
-- [ ] Add the public YouTube link
+- [x] Record and edit the video
+- [x] Add the public YouTube link
 
 ## YouTube Video
 
