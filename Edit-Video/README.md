@@ -54,4 +54,13 @@ and synchronizing the audio with the corresponding slide content.
 
 ---
 
+## Slide 3:
+**Title:** Explooring popular programming languages
 
+**Speaker'name:** *Vural* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
