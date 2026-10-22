@@ -87,3 +87,14 @@ and synchronizing the audio with the corresponding slide content.
 
 ---
 
+## Slide 6:
+**Title:** Which One Wins?
+
+**Speaker'name:** *Parinaz* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
+
