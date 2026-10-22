@@ -64,3 +64,16 @@ and synchronizing the audio with the corresponding slide content.
 **Status:** Done 
 
 ---
+
+## Slide 4:
+**Title:** Why JavaScript?
+
+**Speaker'name:** *Vural* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
+
+
