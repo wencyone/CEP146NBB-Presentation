@@ -43,3 +43,15 @@ and synchronizing the audio with the corresponding slide content.
 
 ---
 
+## Slide 1:
+**Title:** Which languages are popular now?
+
+**Speaker'name:** *Israeil* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
+
+
