@@ -105,3 +105,13 @@ and synchronizing the audio with the corresponding slide content.
 
 **Status:** Done 
 
+---
+
+## Slide 8:
+**Title:** Thank you & group members' name
+
+**Editing detail:** Displayed the closing message and group members' names; no audio was added.
+
+**Status:** Done 
+
+---
