@@ -115,3 +115,13 @@ and synchronizing the audio with the corresponding slide content.
 **Status:** Done 
 
 ---
+
+## Final video: 
+
+The edited presentation combines all 8 slides with their corresponding audio recordings. The goal of the editing process was to create a clear and organized video in which the narration matches the presentation slides.
+
+**Report:** After editing, I reviewed the slides and audio to ensure that the narration matched the presentation content and that the slide transitions were properly timed.
+
+---
+
+**The final video was exported for submission as part of the group project.**
