@@ -3,6 +3,7 @@
 ---
 
 **Editor:** Parinaz Oghbaei  
+
 **Role:** Video and Slides  
 
 ## Project overview:
@@ -34,7 +35,7 @@ and synchronizing the audio with the corresponding slide content.
 ## Slide 1:
 **Title:** Language trends
 
-**Speaker'name:**  Name of group members  
+**Speaker'name:** *Israeil* 
 
 **Status:** Done
 
