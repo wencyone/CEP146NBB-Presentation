@@ -98,3 +98,10 @@ and synchronizing the audio with the corresponding slide content.
 
 ---
 
+## Slide 7:
+**Title:** References 
+
+**Editing detail:** Displayed the project references; no audio was added.
+
+**Status:** Done 
+
