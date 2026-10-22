@@ -76,4 +76,14 @@ and synchronizing the audio with the corresponding slide content.
 
 ---
 
+## Slide 5:
+**Title:** Why Python?
+
+**Speaker'name:** *Israeil* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
 
