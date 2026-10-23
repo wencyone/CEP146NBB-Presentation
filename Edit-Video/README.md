@@ -1,0 +1,127 @@
+# Edit video
+
+---
+
+**Editor:** Parinaz Oghbaei  
+
+**Role:** Video and Slides  
+
+## Project overview:
+
+This project is an 8-slide presentation about programming language trends.
+My responsibility was to edit the presentation video by adding the recorded audio for each slide 
+and synchronizing the audio with the corresponding slide content.
+
+---
+
+## My contribution 
+
+**I was responsible for the video editing process, including:**
+
+- Working with the 8 presentation slides.
+
+- Adding a separate audio recording for each slide.
+
+- Matching each audio recording with the correct slide.
+
+- Adjusting the audio timing to match the slide duration.
+
+- Checking the synchronization between the recorded narration and the slides.
+
+- Preparing the edited presentation video for export.
+
+---
+
+## Slide 1:
+**Title:** Language trends
+
+**Speaker'name:** *Israeil* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
+
+## Slide 2:
+**Title:** Which languages are popular now?
+
+**Speaker'name:** *Israeil* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
+
+## Slide 3:
+**Title:** Explooring popular programming languages
+
+**Speaker'name:** *Vural* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
+
+## Slide 4:
+**Title:** Why JavaScript?
+
+**Speaker'name:** *Vural* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
+
+## Slide 5:
+**Title:** Why Python?
+
+**Speaker'name:** *Israeil* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
+
+## Slide 6:
+**Title:** Which One Wins?
+
+**Speaker'name:** *Parinaz* 
+
+**Editing detail:** Added the recorded audio and synchronized it with the slide.
+
+**Status:** Done 
+
+---
+
+## Slide 7:
+**Title:** References 
+
+**Editing detail:** Displayed the project references; no audio was added.
+
+**Status:** Done 
+
+---
+
+## Slide 8:
+**Title:** Thank you & group members' name
+
+**Editing detail:** Displayed the closing message and group members' names; no audio was added.
+
+**Status:** Done 
+
+---
+
+## Final video: 
+
+The edited presentation combines all 8 slides with their corresponding audio recordings. The goal of the editing process was to create a clear and organized video in which the narration matches the presentation slides.
+
+**Report:** After editing, I reviewed the slides and audio to ensure that the narration matched the presentation content and that the slide transitions were properly timed.
+
+---
+
+**The final video was exported for submission as part of the group project.**
